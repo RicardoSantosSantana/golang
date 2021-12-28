@@ -7,6 +7,8 @@
 > docker pull rssantan/golang:latest
 #### Executar
 > docker run rssantan/golang
+#### DockerHub
+> https://hub.docker.com/r/rssantan/golang
 
 ##### OBS: 
 
